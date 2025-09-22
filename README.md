@@ -84,12 +84,12 @@ driver.quit()
 ```
 
 ## 🚀 How the Scraping Process Works
-### Step 1: Browser Initialization
-### Step 2: Website Navigation
-### Step 3: Data Location & Extraction
-### Step 4: Data Processing
-### Step 5: Data Organization & Export
-### Step 6: Cleanup
+- Step 1: Browser Initialization
+- Step 2: Website Navigation
+- Step 3: Data Location & Extraction
+- Step 4: Data Processing
+- Step 5: Data Organization & Export
+- Step 6: Cleanup
 
 ## 📊 Output Data Structure
 
